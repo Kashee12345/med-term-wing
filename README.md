@@ -9,10 +9,11 @@ Created by Dr. Akash Garg.
 ## What is in it
 
 - 12 sectors, one for each body system: Word Parts, Body Structure, Integumentary, Musculoskeletal, Cardiovascular, Blood and Immune, Respiratory, Digestive, Urinary, Nervous, Endocrine and Reproductive
-- 180 targeting questions and 48 word-building chains, each with an explanation
+- 360 targeting questions (30 per body system) and 48 word-building chains, each with an explanation
 - 6 mission types: Dogfight, Nav Patrol, Asteroid Field, Word Run, Escort and Capital Assault
 - A walkable carrier with a briefing room, hangar, ready room with a kill board, and a med bay that reviews every term you missed
 - Voiced wingmen who give hints, a throttle and brake, and an autopilot to nav points
+- Seven medals with a ceremony on the carrier, and a final campaign mission, Operation Lexicon, that opens once all twelve sectors are cleared
 
 ## Controls
 
@@ -35,5 +36,6 @@ Third-party art and audio keep their own licenses and are included only inside t
 - Nebula backgrounds from paid packs by Zanzindorf and dinvstudio, used under their licenses. These images are not covered by this repository's license and may not be extracted or redistributed.
 - Character portraits built with the LimeZu Portrait Generator (used under its license, not redistributed separately)
 - Sound effects by Kenney and others (CC0)
+- Medal fanfares from Kenney Music Jingles (CC0)
 - Music: "Behind the Universe" by Alexandr Zhelanov (CC-BY 3.0), "Space Battle" by MintoDog (CC0), "Blackmoor Colossus" by Matthew Pablo (CC-BY 3.0), all from OpenGameArt.org
 - Voices generated with Kokoro text to speech
